@@ -1,0 +1,82 @@
+.bg-img {
+    background-image: url("/Users/taro/Desktop/Code_Immersives/Personal_Website/masters-human-factors.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.heading1 {
+    padding-top: 3%;
+    padding-left: 4%;
+    margin-bottom: 0;
+    font-family: 'Wallpoet', Times;
+    font-size: 6rem;
+    color:rgb(11, 11, 11);
+    height: 13%;
+}
+
+.heading2 {
+    padding-left: 5%;
+    font-family: 'Maitree', Times;
+    font-size: 2.5rem;
+    color:rgb(11, 11, 11);
+}
+
+nav {
+    padding-left: 4%;
+}
+
+.nav-item {
+    font-family: 'Maitree', Times;
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding-left: 1rem;
+}
+
+.nav-item a {
+    color: rgb(15, 5, 128);
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(15, 5, 128) 2px;
+    border: solid rgb(15, 5, 128) 2px;
+}
+
+.fas fa-home fa-2x:hover, .nav-item a:hover {
+    color: gold;
+}
+
+.intro{
+    margin: 10rem;
+}
+.self-intro{
+    font-family: 'Maitree', Times;
+    font-size: 2rem;
+    font-weight: 700;
+    color: rgb(15, 5, 128);
+    text-align: center;
+}
+
+#intro {
+    width: 60%;
+    margin-left: 12%;
+}
+
+.test{
+   
+}
+
+.self-intro-test{
+    font-family: 'Maitree', Times;
+    font-size: 3em;
+    font-weight: 700;
+    color: rgb(15, 5, 128);
+    text-align: left;
+    
+
+}
+
+
